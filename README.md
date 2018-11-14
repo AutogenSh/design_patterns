@@ -56,3 +56,9 @@
 
 合成复用原则是指：尽量使用合成/聚合的方式，而不是使用继承。
 
+
+参考[设计模式|菜鸟教程][1]
+
+[1]: http://www.runoob.com/design-pattern/design-pattern-tutorial.html  "设计模式|菜鸟教程"
+
+
